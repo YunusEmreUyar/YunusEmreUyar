@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java Spring Boot
 - 📫 You can reach me from yunusemreuyarr@outlook.com 
 
-I am currently using Python/Django for backend and I am interested in Spring Boot MVC.
+I am currently using Python/Django for backend and I am interested in Spring Boot.
 
 [My Portfolio](https://yunusemreuyar.github.io)
 
