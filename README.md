@@ -10,9 +10,7 @@ I am currently using Python/Django for backend and I am interested in Spring Boo
 
 You can reach my live projects from:
 
-[Notes app](http://keepmo.pythonanywhere.com)
-
-[Simple Blog](https://pencereblog.pythonanywhere.com)
+[Blog](https://pencereblog.pythonanywhere.com)
 
 [CARBON06 Showcase](https://carbon06.pythonanywhere.com)
 
